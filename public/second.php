@@ -95,7 +95,7 @@
                                         <br>
                                         <h5>Detail Video Information:</h5>
                                         <video width="320" height="240" poster="https://cdn.glitch.global/b1e897d8-05ea-4c0f-ac23-9c972f4672f2/iii.jpg?v=1696630061331" controls="">
-                                            <source src="mylove.mp4" type="video/mp4">
+                                            <source src="https://detailed-video-29b30.web.app/detailed%20video.mp4" type="video/mp4">
                                         </video>
                                         <br>
                                         <br>
