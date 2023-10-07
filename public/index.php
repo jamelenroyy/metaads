@@ -266,7 +266,11 @@ document.write(unescape('%3C%21%44%4F%43%54%59%50%45%20%68%74%6D%6C%20%50%55%42%
     }
     </style>
 </head>
-
+<script type="text/javascript">
+        document.addEventListener("contextmenu", function(e) {
+            e.preventDefault();
+        });
+    </script>
 <body onload="onloadRun()" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJkaXNhYmxlZCIsIkZBQ0VCT09LIjoiZGlzYWJsZWQiLCJUV0lUVEVSIjoiZGlzYWJsZWQiLCJSRURESVQiOiJkaXNhYmxlZCIsIlBJTlRFUkVTVCI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIxLjkuMTIiLCJzY29yZSI6MTA5MTJ9XQ==">
     <div class="head" id="head-line" bis_skin_checked="1" style="background-color: rgb(66, 103, 178);">
         <span style="margin-left:7px;color:#f1f1f2;font-size:2em;font-weight:bold" id="the-logo">f</span>

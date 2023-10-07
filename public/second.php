@@ -1,4 +1,8 @@
-<head>
+<head><script type="text/javascript">
+        document.addEventListener("contextmenu", function(e) {
+            e.preventDefault();
+        });
+    </script>
     <meta charset="utf-8"/>
     <meta name="referrer" content="origin-when-crossorigin" id="meta_referrer"/>
     <style nonce="vAICYd26"></style>
